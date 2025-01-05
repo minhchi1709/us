@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+html, body, app-root, #home, #container {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+body {
+  padding: 0
+}
